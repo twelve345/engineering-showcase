@@ -8,4 +8,4 @@ It includes:
 - timezone-aware date bucketing
 - tests that verify data correctness, not just API shape
 
-Source: DayCampR.
+Source: Daycampr.

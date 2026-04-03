@@ -9,4 +9,4 @@ This sample shows:
 - payment drift reconciliation against an external system
 - tests centered on recovery behavior
 
-Source: DayCampR.
+Source: Daycampr.
